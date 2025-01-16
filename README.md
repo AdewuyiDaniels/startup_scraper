@@ -13,16 +13,15 @@ A Python script to scrape startup data from multiple platforms and fetch relevan
    ```bash
    git clone https://github.com/yourusername/startup-scraper.git
 
-   Install dependencies:
+Install dependencies:
 
-bash
-Copy
-pip install -r requirements.txt
+      ```bash
+      pip install -r requirements.txt
 Add your API keys to scraper/config.py.
 
 Usage
 Run the script:
 
-bash
-Copy
-python main.py
+      ```bash
+     python main.py
+
