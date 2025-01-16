@@ -15,13 +15,12 @@ A Python script to scrape startup data from multiple platforms and fetch relevan
 
 Install dependencies:
 
-      ```bash
       pip install -r requirements.txt
+      
 Add your API keys to scraper/config.py.
 
 Usage
 Run the script:
 
-      ```bash
      python main.py
 
